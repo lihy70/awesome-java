@@ -276,6 +276,7 @@ _Everything that simplifies interactions with the database._
 - [sql2o](https://www.sql2o.org) - Thin JDBC wrapper that simplifies database access and provides simple mapping of ResultSets to POJOs.
 - [Vibur DBCP](https://www.vibur.org) - JDBC connection pool library with advanced performance monitoring capabilities.
 - [Xodus](https://jetbrains.github.io/xodus/) - Highly concurrent transactional schema-less and ACID-compliant embedded database.
+- [abacus-jdbc](https://github.com/landawn/abacus-jdbc) - A simple Jdbc utility library with concise&powerful APIs.
 
 ### Date and Time
 
@@ -397,6 +398,7 @@ _Libraries that facilitate functional programming._
 - [protonpack](https://github.com/poetix/protonpack) - Collection of stream utilities.
 - [StreamEx](https://github.com/amaembo/streamex) - Enhances Java 8 Streams.
 - [Vavr](https://www.vavr.io) - Functional component library that provides persistent data types and functional control structures.
+- [abacus-util](https://github.com/landawn/abacus-util) - A general java programming library with a lot of powerful APIs.
 
 ### Game Development
 
